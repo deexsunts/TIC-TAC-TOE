@@ -7,8 +7,10 @@ key features:
 
 -reset button to clear teh score board and placements of X's and O's
 
--quit button to exit out of teh application
+-quit button to exit out of the application
 
 -type box to get username to display on score card.
 
-*the feature above will be used in teh future to create winning streaks for the player, (not developed yet)
+*the feature above will be used in the future to create winning streaks for the player, (not developed yet)
+
+-code in main.py has internal documentation that is easy to follow and understand.
