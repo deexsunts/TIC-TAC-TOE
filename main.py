@@ -1,9 +1,11 @@
+
 from enum import Enum
 from random import choice
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
-
+import os
+import sys
 
 
 
@@ -244,8 +246,6 @@ def mouseCb(event):
         gameState.clear()
 
 
-import os
-import sys
 
     
 def restart():
