@@ -14,3 +14,14 @@ key features:
 *the feature above will be used in the future to create winning streaks for the player, (not developed yet)
 
 -code in main.py has internal documentation that is easy to follow and understand.
+
+
+How to run.:
+
+-copy the code (main.py) into your code editor.
+
+-and make sure you have downloaded tkinter library for python on you computer.
+
+- you can do this by typing pip3 install tkinter.
+- 
+- then you are ready to play :)
