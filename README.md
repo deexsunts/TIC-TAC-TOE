@@ -9,6 +9,12 @@ key features:
 
 - quit button to exit out of the application
 
+- the flowcharts are located on this directory
+
+- The code has internal documentation ( for main parts of code)
+
+- thw wire frames are also located on thsi directory
+
 - type box to get username to display on score card.
 
 *the feature above will be used in the future to create winning streaks for the player, (not developed yet)
@@ -20,7 +26,7 @@ How to run.:
 
 - copy the code (main.py) into your code editor.
 
-- copy teh homepage code, homepage.py
+- copy the homepage code, homepage.py
 
 - download the photo files 
 
