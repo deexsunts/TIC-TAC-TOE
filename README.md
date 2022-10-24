@@ -20,6 +20,16 @@ How to run.:
 
 - copy the code (main.py) into your code editor.
 
+- copy teh homepage code, homepage.py
+
+- download the photo files 
+
+- create a foler and drag in all the code and image files
+
+- now run the homepage.py (this should make a homepage)
+
+- if the code doesnt run, try running the main.py separately. (as that is the main part of the code
+
 - and make sure you have downloaded tkinter library for python on you computer.
 
 - you can do this by typing pip3 install tkinter.
